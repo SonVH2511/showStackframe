@@ -16,4 +16,5 @@ Just throw file stack_viewer.py to plugins folder. Shortcut to open:`ctrl + shif
 
 Plugins path: `%AppData%\Hex-Rays\IDA Pro\plugins`.
 
-![Uploading image.png…]()
+<img width="825" height="985" alt="image" src="https://github.com/user-attachments/assets/80f0ad5c-5499-4f42-9735-4fb1bef25195" />
+
