@@ -12,10 +12,9 @@ Supports for 9.0+ version.
 
 ### Usage
 
-Just throw file stack_viewer.py to plugins folder. Shortcut `ctrl + shift + K`.
+Just throw file stack_viewer.py to plugins folder. Shortcut to open:`ctrl + shift + K`.
 
 Plugins path: `%AppData%\Hex-Rays\IDA Pro\plugins`.
-
 
 <img width="1432" height="1752" alt="image" src="https://github.com/user-attachments/assets/03a684ef-9c96-4597-8053-f018eaa2940b" />
 
