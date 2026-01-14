@@ -1,6 +1,6 @@
 ### README
 
-An IDA plugin that helps show the stack frame base relative to the current RSP(just for PE only I haven't test with ELF executable yet).
+An IDA plugin that helps show the stack frame base relative to the current RSP(just for PE only I haven't test with ELF executable yet). Some features from `deReferencing` plugin, very thanks for idea.
 
 
 <img width="2061" height="1557" alt="image" src="https://github.com/user-attachments/assets/94d77fd1-21c4-45e4-8935-59d6592eccb9" />
