@@ -9,7 +9,7 @@ Thanks to Codpilot, who helped realize my idea.
 
 ### Requirement
 
-Supports for 9.0+ version.
+Supports for ONLY 9.0 version.
 
 
 ### Usage
